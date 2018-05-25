@@ -4,12 +4,12 @@ Takes in name, start and end time and renders into a sorted scoreboard.
 
 ### install
 
-npm install
+npm install\
 npm start
 
 ### build
 
-dev: npm run dev
+dev: npm run dev\
 prod: npm run prod
 
 ### data format
