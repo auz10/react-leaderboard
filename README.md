@@ -2,7 +2,7 @@
 
 Example: [https://auz10.github.io/react-leaderboard/](https://auz10.github.io/react-leaderboard/)
 
-Takes in name, start and end time and renders into a sorted scoreboard.
+Takes in name, timeStart, timeEnd and renders into a sorted scoreboard. Items without a timeEnd specified will tick until there is one.
 
 ### install
 
