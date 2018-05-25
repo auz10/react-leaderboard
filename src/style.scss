@@ -1,0 +1,12 @@
+html {
+    background-color: rgb(189, 240, 255);
+    background: linear-gradient(rgb(189, 240, 255) , rgb(116, 211, 255));
+    min-height: 100%;
+}
+#app {
+    max-width: 870px;
+    margin: 0 auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+@import './Components/Leaderboard/style'
