@@ -1,5 +1,7 @@
 # react-leaderboard
 
+Example: [https://auz10.github.io/react-leaderboard/](https://auz10.github.io/react-leaderboard/)
+
 Takes in name, start and end time and renders into a sorted scoreboard.
 
 ### install
