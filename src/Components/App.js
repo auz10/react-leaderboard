@@ -15,7 +15,7 @@ class App extends Component {
         setInterval(this.fetchData, 30000);
     }
     fetchData() {
-        axios.get('http://private-3ba44-walktimes.apiary-mock.com/walktimes')
+        axios.get('https://private-3ba44-walktimes.apiary-mock.com/walktimes')
             .then((resp) => {
                 this.setState({data: resp.data.walkers})
             });
